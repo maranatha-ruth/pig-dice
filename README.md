@@ -18,4 +18,4 @@ This Project,  I creating the Pig dice game. these include working with construc
 . Open index.html file in a browser such as Google Chrome
 
 ```
-### 
+### Technologies Used
