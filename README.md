@@ -31,5 +31,8 @@ Main Languages used:
 ### License
 ```
 This project is licensed under the MIT License
+maranatha ruth Copyright (c) 2018
+
+```
 
 
