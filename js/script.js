@@ -22,7 +22,7 @@ function Player(name) {
   Dice.prototype.roll = function() {
     var roll = Math.floor((Math.random() * this.sides ) + 1);
     if (roll === 1) {
-      alert("Doh! You rolled a 1. Your turn is over.");
+      alert(" You rolled a 1. Your turn is over.");
     }
     return roll;
   }
