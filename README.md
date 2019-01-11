@@ -15,3 +15,4 @@ This Project,  I creating the Pig dice game. these include working with construc
 ```
 . Open CMD/Terminal
 . git clone this repository
+. Open index.html file in a browser such as Google Chrome
