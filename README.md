@@ -25,3 +25,4 @@ Main Languages used:
 . CSS
 . JavaScript
 . jQuery
+. Bootstrap
