@@ -1,4 +1,4 @@
-# project titlle
+# project tittle
 ```
 pig-dice
 
