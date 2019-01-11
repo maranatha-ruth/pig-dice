@@ -24,3 +24,4 @@ Main Languages used:
 . HTML
 . CSS
 . JavaScript
+. jQuery
