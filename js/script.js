@@ -191,7 +191,7 @@ function Player(name) {
     });
   });
   
-  //Player Two Stay Button Click Event
+  //Player Two turn Button Click Event
   $("#player-two-stay").click(function(event) {
     event.preventDefault();
   
